@@ -1,5 +1,9 @@
 ![Travis build status](https://travis-ci.org/cursopopulardefensoria/landing-page-react.svg?branch=master)
 
+# About
+This is a small project integrating with GitHub Pages and Travis CI to deploy a sample application.
+
+The end result is available here: https://rpagliuca.github.io/react-github-travis/
 
 # Development
 1. Fork this repository
@@ -12,9 +16,9 @@
 1. The page on your web browser should have been automatically updated (hot-reloaded)
 
 # Deploy
+1. Visit https://travis-ci.org/ and login with GitHub account
 1. Click on the `+` sign to add a repository
 1. Enable your newly created fork repository
-1. Visit https://travis-ci.org/ and login with GitHub account. After that, enable integration with your brand new repository.
 1. Visit GitHub, and create a new security token for Travis: https://github.com/settings/tokens. You have to enable the "repo" scope.
 1. Copy the token generated in the previous step and add it to the travis-ci pipeline as an environment variable, with name GITHUB_TOKEN.
 1. `git commit`
