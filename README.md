@@ -12,6 +12,9 @@
 1. The page on your web browser should have been automatically updated (hot-reloaded)
 
 # Deploy
+1. Visit https://travis-ci.org/ and login with GitHub account
+1. Click on the `+` sign to add a repository
+1. Enable your newly created fork repository
 1. `git commit`
 1. `git push`
 1. Visit Github, and customize static page settings: `Github Repository Settings -> GitHub Pages -> Select source "master branch /docs folder"`
