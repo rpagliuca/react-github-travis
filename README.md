@@ -1,4 +1,4 @@
-![Travis build status](https://travis-ci.org/cursopopulardefensoria/landing-page-react.svg?branch=master)
+![Travis build status](https://api.travis-ci.org/repos/rpagliuca/react-github-travis.svg?branch=master)
 
 # About
 This is a small project integrating with GitHub Pages and Travis CI to deploy a sample application.
